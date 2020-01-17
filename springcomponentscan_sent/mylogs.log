@@ -1,0 +1,53 @@
+2020-01-05 22:32:41 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d
+2020-01-05 22:32:41 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-01-05 22:32:41 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\admin\mavenstart\springcomponentscan_sent\target\classes\com\mycompany\app\Canvas.class]
+2020-01-05 22:32:41 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\admin\mavenstart\springcomponentscan_sent\target\classes\com\mycompany\app\Circle.class]
+2020-01-05 22:32:41 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-01-05 22:32:41 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-01-05 22:32:41 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-01-05 22:32:41 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-01-05 22:32:41 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-01-05 22:32:41 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'canvas'
+2020-01-05 22:32:41 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'circle'
+2020-01-05 22:32:41 DEBUG DefaultListableBeanFactory:777 - Autowiring by type from bean name 'canvas' via constructor to bean named 'circle'
+2020-01-05 22:52:55 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d
+2020-01-05 22:52:55 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-01-05 22:52:55 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\admin\mavenstart\springcomponentscan_sent\target\classes\com\mycompany\app\Canvas.class]
+2020-01-05 22:52:55 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\admin\mavenstart\springcomponentscan_sent\target\classes\com\mycompany\app\Circle.class]
+2020-01-05 22:52:55 DEBUG DefaultListableBeanFactory:909 - Overriding bean definition for bean 'circle' with a different definition: replacing [Generic bean: class [com.mycompany.app.Circle]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [C:\Users\admin\mavenstart\springcomponentscan_sent\target\classes\com\mycompany\app\Circle.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=javaConfig; factoryMethodName=circle; initMethodName=null; destroyMethodName=(inferred); defined in com.mycompany.app.JavaConfig]
+2020-01-05 22:52:55 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-01-05 22:52:55 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-01-05 22:52:55 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-01-05 22:52:55 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-01-05 22:52:55 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-01-05 22:52:55 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'canvas'
+2020-01-05 22:52:55 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'circle'
+2020-01-05 22:52:55 DEBUG DefaultListableBeanFactory:777 - Autowiring by type from bean name 'canvas' via constructor to bean named 'circle'
+2020-01-05 23:15:02 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d
+2020-01-05 23:15:02 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-01-05 23:15:02 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\admin\mavenstart\springcomponentscan_sent\target\classes\com\mycompany\app\Canvas.class]
+2020-01-05 23:15:02 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\admin\mavenstart\springcomponentscan_sent\target\classes\com\mycompany\app\Circle.class]
+2020-01-05 23:15:02 DEBUG DefaultListableBeanFactory:909 - Overriding bean definition for bean 'circle' with a different definition: replacing [Generic bean: class [com.mycompany.app.Circle]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [C:\Users\admin\mavenstart\springcomponentscan_sent\target\classes\com\mycompany\app\Circle.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=javaConfig; factoryMethodName=circle; initMethodName=null; destroyMethodName=(inferred); defined in com.mycompany.app.JavaConfig]
+2020-01-05 23:15:02 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-01-05 23:15:02 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-01-05 23:15:02 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-01-05 23:15:02 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-01-05 23:15:02 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-01-05 23:15:02 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'canvas'
+2020-01-05 23:15:02 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'circle'
+2020-01-05 23:15:02 DEBUG DefaultListableBeanFactory:777 - Autowiring by type from bean name 'canvas' via constructor to bean named 'circle'
+2020-01-05 23:15:02 DEBUG AnnotationConfigApplicationContext:1002 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d, started on Sun Jan 05 23:15:02 PST 2020
+2020-01-05 23:23:59 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d
+2020-01-05 23:23:59 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-01-05 23:23:59 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\admin\mavenstart\springcomponentscan_sent\target\classes\com\mycompany\app\Canvas.class]
+2020-01-05 23:23:59 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\admin\mavenstart\springcomponentscan_sent\target\classes\com\mycompany\app\Circle.class]
+2020-01-05 23:23:59 DEBUG DefaultListableBeanFactory:909 - Overriding bean definition for bean 'circle' with a different definition: replacing [Generic bean: class [com.mycompany.app.Circle]; scope=prototype; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [C:\Users\admin\mavenstart\springcomponentscan_sent\target\classes\com\mycompany\app\Circle.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=javaConfig; factoryMethodName=circle; initMethodName=null; destroyMethodName=(inferred); defined in com.mycompany.app.JavaConfig]
+2020-01-05 23:23:59 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-01-05 23:23:59 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-01-05 23:23:59 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-01-05 23:23:59 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-01-05 23:23:59 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-01-05 23:23:59 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'canvas'
+2020-01-05 23:23:59 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'circle'
+2020-01-05 23:23:59 DEBUG DefaultListableBeanFactory:777 - Autowiring by type from bean name 'canvas' via constructor to bean named 'circle'
+2020-01-05 23:24:00 DEBUG AnnotationConfigApplicationContext:1002 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d, started on Sun Jan 05 23:23:59 PST 2020
